@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html land="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>myWishlist</title>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css">
+        <link rel="stylesheet" href="assets/CSS/styleindex.css">
+     
+    </head>
+<body>
+    <main>
+    <div class="box">
+        <h3>Login to myWishlist</h3>
+        <br><br>
+    <!-- This allows the user to login, it uses the function outlined in login.php-->
+    <!-- Inspiration was take from Pure Coding -->
+        <form method="post" action="login.php" class="add-input">
+
+            <div class="input-group">
+            <label>Username:</label><br>
+            <input type="text" name="username" placeholder=""/></div><br><br>
+
+            <div class="input-group">
+            <label>Password:</label><br>
+            <input type="password" name="password" placeholder=""/></div><br><br>
+            
+            <div class="input-group">
+            <input type="submit" name="submit" value="Login"/></div>
+            <div>
+                <p>Oops, I don't have an account. <a href="registration.html">Go to registration.</a></p></br>
+                <p><a href="home.html">Back</a></p>
+            </div>
+        </form>
+<div class="error"><?php//echo server;?><?php//echo $username; echo $password;?></div>
+</div>
+</main>
+</body>
+<footer>
+        
+</footer>
+</html>
