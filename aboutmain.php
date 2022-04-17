@@ -31,6 +31,10 @@
 
 <main>
     <div>This website has been developed for your benefit.</div>
+    <div> myWishList is one of the fastest growing app in the technology world today, as it focuses on the phrase “you can have it all”.<br>
+        <br> It was created by a team of technical genuines who thought long and hard the bests manner to bring your needs to a reality without begging, stressing or striving hard on how it could be fulfilled yet keeping your selfrespect and dignity intact. <br>
+        <br> Our mission is to bring smiles to faces customers both young and old, cutting across all denominations and bringing most of their desires to fulfilment with just one shared link to friends, families or acquaintances.<br>
+        <br> Needless to say, also keeping their personal Information safe, events uninterrupted and build exceptional bonds while at it. </div>
 </main>
 
 <footer>
