@@ -39,7 +39,7 @@ if($_COOKIE['uid']){
     </header>
 
 <main>
-    Welcome to myWishlist!
+    Welcome to myWishlist! This website has been designed by Group J.
 </main>
 
     <!--Footer Starts-->
