@@ -39,7 +39,7 @@ if($_COOKIE['uid']){
     </header>
 
 <main>
-    Welcome!
+    Welcome to myWishlist!
 </main>
 
     <!--Footer Starts-->
