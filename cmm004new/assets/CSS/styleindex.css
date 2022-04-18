@@ -9,19 +9,22 @@ body{
 }
 body {text-align: center;}
 body{
-    background-color: rgb(255, 175, 0);
+    /* background-color: rgb(255, 175, 0); */
+    background-color: whitesmoke;
 }
 h1 {text-align: center;}
 
 header {text-align: center;}
 header{
-    background-color: rgb(255, 150, 0);
+    /* background-color: rgb(255, 150, 0); */
+    background-color: skyblue;
 }
 
 main {
         width: 100%;
         min-height: 250px;
-        background-color: rgb(255, 125, 0);
+        /* background-color: rgb(255, 125, 0); */
+        background-color: whitesmoke;
         background-position: left;
         background-size: cover;
         display: flex;
@@ -51,27 +54,35 @@ li a:hover {
     color:rgb(255, 100, 0);
 }
 
-/* Footer CSS*/
-h2 {text-align: left;}
-footer{
-    background-color: rgb(255, 75, 0);
+
+.footer {
+    display: block;
+    text-align: center;
+    padding: 3px;
+    background-color: skyblue;
+    color: blue;
+    position: relative;
+    width: 100%;
+    bottom: 0;
 }
-footer>div>ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
+
+  .col-container {
+    display: flex;
+    width: 100%;
 }
-footer>div>ul>li {
-    float: left;
+  .col {
+    flex: 1;
+    padding: 16px;
 }
+
 
 
 /* Box css code */
 .box {
     width: 250px;
     min-height: 50px;
-    background: rgb(255, 50, 0);
+    /* background: rgb(255, 50, 0); */
+    background: skyblue;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(red, green, blue, alpha);
     padding: 50px 40px;
@@ -91,22 +102,6 @@ footer>div>ul>li {
 /* Images CSS */
 
 #wishlistlogo
-{
-    width: 75px;
-    height: 75px;
-}
-
-#facebooklogo
-{
-    width: 75px;
-    height: 75px;
-}
-#twitterlogo
-{
-    width: 75px;
-    height: 75px;
-}
-#instagramlogo
 {
     width: 75px;
     height: 75px;
