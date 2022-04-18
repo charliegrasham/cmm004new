@@ -39,7 +39,7 @@ if($_COOKIE['uid']){
     </header>
 
 <main>
-
+    Welcome!
 </main>
 
     <!--Footer Starts-->
