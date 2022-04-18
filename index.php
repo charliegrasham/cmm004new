@@ -30,7 +30,7 @@
     </header>
 
 <main>
-
+    Welcome to myWishlist!
 </main>
 
 <footer>
