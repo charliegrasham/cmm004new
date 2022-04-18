@@ -38,7 +38,7 @@ if($_COOKIE['uid']){
             <li><a href="wishlistinsert.html">Create a Wishlist</a></li>
             <li><a href="wishlistshow.php">Display Wishlists</a></li>
             <li><a href="suggest.html">Suggest Shop</a></li>
-            <li><a href="shops.html">Our Shops</a></li>
+            <li><a href="shops.php">Our Shops</a></li>
             <li><a href="wishlistdelete.html">Delete Wishlists</a></li>
             <li><a href="aboutmain.php">About Us</a></li>
             <form method="get" action="logout.php">
